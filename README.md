@@ -1,23 +1,41 @@
-## Olá eu sou Lucivaldo Braga, Granduando em Ciência da Computação.
- - 🏙️ Moro em Manaus - Amazonas - 🇧🇷
+## Olá eu sou Lucivaldo Braga, Granduando em Ciência da Computação. 
+ - 🏙️ Moro em Manaus - Amazonas 
  - 🧑🏻‍💻 Estou com 25 anos;
  - 🪖 Fui militar da Força Aérea Brasileira por 6 anos;
  - 📓 Atualmente estudando para ser Dev Fullstack;
  - ☁️ Estudante de AWS Cloud.
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucivaldobraga&show_icons=true&theme=dracula&locale=pt-br)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucivaldobraga)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucivaldobraga&size_weight=0.2&count_weight=0.2&theme=dracula&locale=pt-br)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+## Tecnologias que eu domino 🖥️
+
+<div style="display: inline_block">
+ 
+  <p>LINGUAGENS DE PROGRAMAÇÃO ⚛️</p>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <br></br>
+  <p>IDEs 💻</p>
+  <img align="center" alt="MicrosoftOffice" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  <p>Banco de Dados</p>
+  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="AmDynamo" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" />
+  <p>Nuvem ☁️</p>
+  <img align="center" alt="AmDynamo" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />    
+  <p>Programas 📈</p>
+  <img align="center" alt="LibreOffice" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+  <img align="center" alt="MicrosoftOffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </div>
   
-  ##
+  ## Se precisar, entre em contato comigo.
  
 <div> 
   <a href="https://instagram.com/braguilovisk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
