@@ -6,7 +6,6 @@
  - ☁️ Estudante de AWS Cloud.
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucivaldobraga&show_icons=true&theme=dracula&locale=pt-br)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucivaldobraga&size_weight=0.2&count_weight=0.2&theme=dracula&locale=pt-br)
 
 
