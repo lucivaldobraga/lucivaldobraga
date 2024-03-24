@@ -1,7 +1,6 @@
 ## Olá eu sou Lucivaldo Braga, Granduando em Ciência da Computação. 
  - 🏙️ Moro em Manaus - Amazonas 
- - 🧑🏻‍💻 Estou com 25 anos;
- - 🪖 Fui militar da Força Aérea Brasileira por 6 anos;
+ - 🧑🏻‍💻 25 y;
  - 📓 Atualmente estudando para ser Dev Fullstack;
  - ☁️ Estudante de AWS Cloud.
    
