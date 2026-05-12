@@ -1,8 +1,8 @@
 ## Olá eu sou Lucivaldo Braga, Graduando em Ciência da Computação. 
  - 🏙️ Moro em Manaus - Amazonas 
- - 🧑🏻‍💻 25 y;
- - 📓 Atualmente estudando para ser Software Tester;
- - Cursando o 5º Período de Ciência da Computação.
+ - 🧑🏻‍💻 27 y;
+ - 📓 Atualmente estudando para ser Software Developer;
+ - Cursando o 7º Período de Ciência da Computação.
  - Dedicado e analítico, sou apaixonado por tecnologia, curso Ciência da Computação pela Estácio do Amazonas, busco sempre por aprimoramento pessoal e profissional. Atuo na área corporativa desde os 16 anos, iniciando como estagiário na Prefeitura de Manaus, possuo mais de 5 anos na área administrativa e com relevante experiencia em SQL. Em meu tempo livre realizo trabalho voluntário através do Rotaract Club de Manaus, onde treino minha liderança e oratória em diversos projetos de apoio à comunidade local, obtive o terceiro lugar no Concurso Regional de Oratória do Distrito 4720 de Rotary Club, onde defendi o discurso de acesso ao saneamento básico, concorrendo com pessoas de todos os estados da região norte do Brasil.
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucivaldobraga&show_icons=true&theme=dracula&locale=pt-br)
